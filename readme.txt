@@ -1,2 +1,2 @@
-jgit is a version control system
+jgit is a distributed version control system
 git is free
